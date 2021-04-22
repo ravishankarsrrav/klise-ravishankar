@@ -1,29 +1,28 @@
 # Site settings
-title: Klise Theme # site title
+title: Ravishankar Portfolio # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  Ravishankar S R | Full Stack Developer specializing in Kubernetes, Docker, Golang, Python, React, Vue.
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+timezone: Asia/Kolkata # set your timezone
+image: assets/img/rav.jpeg # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/ravishankarsrrav/klise-ravishankar # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: Ravishankar S R # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+    I’m a Full-stack Developer. I work on architecting, building and deploying a highly robust, scalable and secure microservices
+    also sometimes I work on stuff that runs in the browser. I currently work on Docker, Kubernetes, Golang, Python, React, Vue, Javascript. 
+    I am based in Bengaluru. I am fond of solving problems, making things work, and reading books.
+    I work as a Backend Engineer in the core team at  <a class="about-me-link" href="https://www.metripping.com"  target="_blank">Metripping</a> in Bengaluru.
+  github: ravishankarsrrav # github username
+  twitter: ravishankar_rav # twitter username
+  email: ravishankarsr.rav@gmail.com # email adress
+  avatar: /assets/img/rav.jpeg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://ravishankarsr.rav" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
