@@ -9,6 +9,10 @@
 - title: archive
   url: /archive/
   external: false
+  
+- title: plan a trip
+  url: https://cli.pathfndr.io
+  external: true
 
 
 
