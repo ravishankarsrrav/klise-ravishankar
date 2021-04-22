@@ -12,17 +12,14 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Ravishankar S R # author name
   bio: >- # tell to the world
-    I’m a Full-stack Developer. I work on architecting, building and deploying a highly robust, scalable and secure microservices
-    also sometimes I work on stuff that runs in the browser. I currently work on Docker, Kubernetes, Golang, Python, React, Vue, Javascript. 
-    I am based in Bengaluru. I am fond of solving problems, making things work, and reading books.
-    I work as a Backend Engineer in the core team at  <a class="about-me-link" href="https://www.metripping.com"  target="_blank">Metripping</a> in Bengaluru.
+    Startup enthusiast || Software Architect || Programmer || Developer || Technologist || Man of Action
   github: ravishankarsrrav # github username
   twitter: ravishankar_rav # twitter username
   email: ravishankarsr.rav@gmail.com # email adress
   avatar: /assets/img/rav.jpeg # change with your own avatar
 
 # URL settings
-url: "https://ravishankarsr.rav" #
+url: "https://ravishankarsr.com" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
