@@ -1,7 +1,7 @@
 # Site settings
 title: Ravishankar S R | \#Kubernetes \#Python \#Noodle.AI \#React \#Software \#Engineer # site title
 description: >- # site description
-  Ravishankar S R | Full Stack Developer specializing in Kubernetes, Docker, Golang, Python, React, Vue.
+  Ravishankar S R | Full Stack Developer specializing in Kubernetes, Docker, Golang, Python, React.
 lang: en-US # default lang
 timezone: Asia/Kolkata # set your timezone
 image: assets/img/rav.jpeg # This image used for Open Graph more info https://ogp.me/
